@@ -13,5 +13,6 @@
     "atomics"
   ],
   "author": "Lily Skye <me@suchipi.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "suchipi/a-mimir"
 }
