@@ -1,0 +1,17 @@
+{
+  "name": "a-mimir",
+  "version": "1.0.0",
+  "description": "async and sync sleep functions",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "keywords": [
+    "sleep",
+    "async",
+    "sync",
+    "asynchronous",
+    "synchronous",
+    "atomics"
+  ],
+  "author": "Lily Skye <me@suchipi.com>",
+  "license": "MIT"
+}
